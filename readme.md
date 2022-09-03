@@ -33,10 +33,10 @@ Created via Balsamic wireframes
 ## wireframe and website screenshots
 
 Home page
-![Home page](images/homepage-wf/ss.jpg)
+![Home page](images/homepage-wf:ss.JPG)
 
 About me
-![about me page](images/aboutme.jpg)
+![about me page](images/aboutme-wf:ss.JPG)
 
 Blogs
 ![Blogs page](images/blogs.JPG)
